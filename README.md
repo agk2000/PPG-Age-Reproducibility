@@ -3,7 +3,7 @@
 This repo contains the analysis code used in our paper on reproducibility of age prediction from photoplethysmography (PPG) signals, using UK Biobank as the primary public dataset. It includes scripts/notebooks for:
 - ASI (arterial stiffness index) vs age visualization and an ASI-only age prediction baseline
 - mean-age baseline
-- deep learning baselines (SMoLK, ResNet)
+- deep learning baselines (SMoLK, ResNet) present here (https://drive.google.com/drive/folders/1UBl1qqFjq7H327g4l1cc5YuDCwkUsaw4?usp=sharing)
 - PaCMAP plots of learned embeddings
 - figure-generation notebooks
 
